@@ -1,0 +1,8 @@
+C:\Users\Slisk Lindqvist\Desktop\LOTG-CODE101\Hermods\Programmering 1 - C# (SeeSharp)\Modul 4\Uppdrag 3\Uppgift 2\Lottobollar-Test\obj\Debug\Lottobollar-Test.csproj.AssemblyReference.cache
+C:\Users\Slisk Lindqvist\Desktop\LOTG-CODE101\Hermods\Programmering 1 - C# (SeeSharp)\Modul 4\Uppdrag 3\Uppgift 2\Lottobollar-Test\obj\Debug\Lottobollar-Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slisk Lindqvist\Desktop\LOTG-CODE101\Hermods\Programmering 1 - C# (SeeSharp)\Modul 4\Uppdrag 3\Uppgift 2\Lottobollar-Test\obj\Debug\Lottobollar-Test.csproj.CoreCompileInputs.cache
+C:\Users\Slisk Lindqvist\Desktop\LOTG-CODE101\Hermods\Programmering 1 - C# (SeeSharp)\Modul 4\Uppdrag 3\Uppgift 2\Lottobollar-Test\bin\Debug\Lottobollar-Test.exe.config
+C:\Users\Slisk Lindqvist\Desktop\LOTG-CODE101\Hermods\Programmering 1 - C# (SeeSharp)\Modul 4\Uppdrag 3\Uppgift 2\Lottobollar-Test\bin\Debug\Lottobollar-Test.exe
+C:\Users\Slisk Lindqvist\Desktop\LOTG-CODE101\Hermods\Programmering 1 - C# (SeeSharp)\Modul 4\Uppdrag 3\Uppgift 2\Lottobollar-Test\bin\Debug\Lottobollar-Test.pdb
+C:\Users\Slisk Lindqvist\Desktop\LOTG-CODE101\Hermods\Programmering 1 - C# (SeeSharp)\Modul 4\Uppdrag 3\Uppgift 2\Lottobollar-Test\obj\Debug\Lottobollar-Test.exe
+C:\Users\Slisk Lindqvist\Desktop\LOTG-CODE101\Hermods\Programmering 1 - C# (SeeSharp)\Modul 4\Uppdrag 3\Uppgift 2\Lottobollar-Test\obj\Debug\Lottobollar-Test.pdb
